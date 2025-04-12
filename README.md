@@ -1,0 +1,1 @@
+Enhance large language model (LLM) applications with Retrieval Augmented Generation (RAG) using OpenAI, LlamaIndex, and Chainlit.  LLM-powered conversational assistant equipped with access to Wikipedia, allowing it to respond based on our chosen Wikipedia page(s)
